@@ -2,6 +2,9 @@
 # swJumpPad
 Improved JumpPad/Kicker Actor that calculates jump force automatically.
 
+Developed for the Unreal Tournament w00t Instagib community.
+http://www.extremew00t.com/news.html
+
 *  Does not require additional Trigger/LiftExit/LiftCenter actors.
 *  Familiar placing procedure - just like Teleporters.
 *  Path links visible in UnrealEd.
